@@ -48,4 +48,9 @@ I use platformio for this project on VSCode, could had coded it on MicroPython o
 * database schema > i will push soon some sample data for you to understand whats inside there.
 * Dockerfile + requirements.txt + start.sh > are the files required to push all this thing. Look at the start.sh so u can understand how i made it. I run it on K8s, and its quite fast for me to push new code in this way.
 
+# things to do
+tons of them, linting, pretty.. aint my priority.
+So far, i'm working on tensorflow objects and bluetooth low energy (room assistant) kind of thing to control lighting across the house and solve some daily scenarios (I aim to comfort :D)
+
+but hey as I said before, just feel free to contribute with code and stuff.. who knows where this can end.
 
