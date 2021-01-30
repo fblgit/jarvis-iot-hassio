@@ -1,0 +1,10 @@
+pymysql
+datetime
+requests
+flask
+flask_restful
+pychromecast
+tuyaface
+IPython
+apscheduler
+pymysql-pooling
